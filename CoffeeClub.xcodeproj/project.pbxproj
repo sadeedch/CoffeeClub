@@ -15,6 +15,8 @@
 		E2902D1A24190F3800F0865A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2902D1824190F3800F0865A /* LaunchScreen.storyboard */; };
 		E2902D2524190F3800F0865A /* CoffeeClubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2902D2424190F3800F0865A /* CoffeeClubTests.swift */; };
 		E2902D3024190F3800F0865A /* CoffeeClubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2902D2F24190F3800F0865A /* CoffeeClubUITests.swift */; };
+		E2902D3E241910E000F0865A /* drinks.json in Resources */ = {isa = PBXBuildFile; fileRef = E2902D3D241910E000F0865A /* drinks.json */; };
+		E2902D402419134200F0865A /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2902D3F2419134200F0865A /* data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		E2902D2B24190F3800F0865A /* CoffeeClubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoffeeClubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2902D2F24190F3800F0865A /* CoffeeClubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeClubUITests.swift; sourceTree = "<group>"; };
 		E2902D3124190F3800F0865A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2902D3D241910E000F0865A /* drinks.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = drinks.json; sourceTree = "<group>"; };
+		E2902D3F2419134200F0865A /* data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +106,9 @@
 				E2902D0D24190F3400F0865A /* AppDelegate.swift */,
 				E2902D0F24190F3400F0865A /* SceneDelegate.swift */,
 				E2902D1124190F3400F0865A /* ContentView.swift */,
+				E2902D3F2419134200F0865A /* data.swift */,
 				E2902D1324190F3800F0865A /* Assets.xcassets */,
+				E2902D3D241910E000F0865A /* drinks.json */,
 				E2902D1824190F3800F0865A /* LaunchScreen.storyboard */,
 				E2902D1B24190F3800F0865A /* Info.plist */,
 				E2902D1524190F3800F0865A /* Preview Content */,
@@ -243,6 +249,7 @@
 				E2902D1A24190F3800F0865A /* LaunchScreen.storyboard in Resources */,
 				E2902D1724190F3800F0865A /* Preview Assets.xcassets in Resources */,
 				E2902D1424190F3800F0865A /* Assets.xcassets in Resources */,
+				E2902D3E241910E000F0865A /* drinks.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +277,7 @@
 				E2902D0E24190F3400F0865A /* AppDelegate.swift in Sources */,
 				E2902D1024190F3400F0865A /* SceneDelegate.swift in Sources */,
 				E2902D1224190F3400F0865A /* ContentView.swift in Sources */,
+				E2902D402419134200F0865A /* data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

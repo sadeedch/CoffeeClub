@@ -1,0 +1,36 @@
+
+[
+    {
+        "id":"1",
+        "name":"Cappuccino",
+        "imageName":"cappuccino",
+        "description":"This is cappuccino",
+        "category":"hot"
+    },
+    
+    {
+        "id":"2",
+        "name":"Black Coffee",
+        "imageName":"blackcoffee",
+        "description":"This is black coffee",
+        "category":"hot"
+    },
+    {
+        "id":"3",
+        "name":"Chai",
+        "imageName":"chai",
+        "description":"This is chai",
+        "category":"hot"
+    },
+
+    {
+        "id":"4",
+        "name":"Iced Coffee",
+        "imageName":"icedcoffee",
+        "description":"This is iced coffee",
+        "category":"cold"
+    }
+    
+
+
+]
